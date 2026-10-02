@@ -2,8 +2,6 @@
 
 Week 4 capstone: a full-stack e-commerce app with product listing, authentication, cart, order management and an admin dashboard.
 
-**Live demo:** _add your Vercel URL here_  ·  **API:** _add your Render URL here_
-
 ## Features
 - **Shop:** product listing with search, category filter and price sorting; product detail page
 - **Auth:** register / login with JWT and bcrypt-hashed passwords; protected routes
